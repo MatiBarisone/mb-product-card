@@ -1,8 +1,10 @@
-# MB-Product-Card
+# MB-Product-Card-Test
 
 Este es un paquete de pruebas de despliegue en NPM
 
-### Matias Barisone
+### Autor: 
+
+Matias Barisone
 
 ## Ejemplo
 
